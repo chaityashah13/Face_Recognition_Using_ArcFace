@@ -1,0 +1,8 @@
+venv/
+captures/
+data/
+unknown/
+cache/
+videos/
+__pycache__/
+*.pyc
