@@ -1,6 +1,0 @@
-insightface>=2.0
-onnxruntime
-opencv-python
-torch
-numpy
-matplotlib
